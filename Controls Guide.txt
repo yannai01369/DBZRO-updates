@@ -1,0 +1,20 @@
+Les commandes du jeu sont les suivantes :
+
+Guide de déplacement et de ramassage
+Flèches - Selon la touche pressée, votre personnage se déplace dans cette direction.
+Touches WASD - Selon la touche pressée, votre personnage se déplace dans cette direction.
+Espace - Sert à ramasser les objets sur la carte.
+
+Guide du chat
+Entrée - Ouvre la boîte de chat, envoie les messages et masque la boîte de chat.
+" Commandes de chat " Tapez ' pour parler en global, !nomdujoueur pour envoyer un message privé à un joueur. Tapez - pour écrire sous forme d'émote.
+
+Autres commandes
+Maj - Maintenir Maj enfoncé tout en utilisant les flèches vous fait courir.
+Ctrl - Cette touche permet d'attaquer.
+Début (Home) - Ouvre ou ferme le panneau d'administration (réservé au staff). Inactif pendant la saisie dans le chat.
+F4 - Ouvre le formulaire de création de guilde.
+F5 - Ouvre le panneau de guilde, où vous pouvez ajouter des joueurs à votre guilde.
+F11 - Prend une capture d'écran du client de jeu.
+F12 - Prend une capture d'écran de l'écran de jeu uniquement !
+Page suivante - Fait pivoter votre personnage sur place ! (sens horaire)
