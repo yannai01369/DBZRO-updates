@@ -1,0 +1,7 @@
+Like you've seen, This game is based upon simplicity. This is how the stats work!
+
+Str = 1 Point = Increases Attack
+End = 1 Points = Increases Health
+Ki = 1 Point = 1 Increases Ki Amount
+Agi = Increases Dodge Rate
+Rec = 1 Point = Increases HP & Ki Re-gen Rate.
